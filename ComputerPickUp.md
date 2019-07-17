@@ -4,4 +4,6 @@ Key Issue: Can DevonSync work on laptop. If yes, DT# note-taking, Atom write up 
 
 Zotero as bibliographic program. Will need to find a way to use Find and Replace to handle editing en masse.
 
-So key apps: Atom (GitHub Desk), DT3, Zotero
+So key apps: Atom (GitHub Desk), DT3, Zotero.
+
+(Interesting that GitHub Desktop works but Atom does not. Allows continued use, so there's that.)

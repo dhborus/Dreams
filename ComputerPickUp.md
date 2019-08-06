@@ -9,6 +9,6 @@ So key apps: Atom (GitHub Desk), DT3, Zotero.
 
 Key elements here:
 
-Can I create pandoc-ready citations from bookends without the @ sign for pages.
+Can I create pandoc-ready citations from bookends without the @ sign for pages. No, but I can negotiate the citation in Atom with autocomplete-bibtex.
 
-Can I sync DT3 from laptop with iPad
+Can I sync DT3 from laptop with iPad.

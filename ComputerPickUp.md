@@ -1,14 +1,11 @@
-Atom still has the best writing environment. If this works, not sure I will mess around with Scrivener.[@abrahams1986, p. 88-92. We'll see if this works.]
+Five key programs -- Atom/Scrivener, DT3, Bookends/Zotero:
 
+For writing, Scrivener and Atom are more or less interchangeable -- Serve as backup for each other. Simply  copy day's writing to the other before shut down. Atom is really in anticipation of Linux shift -- which is about two years away. Scrivener has the advantage of iPad syncing and use.
 
-Zotero as bibliographic program. Will need to find a way to use Find and Replace to handle editing en masse.
+Bookends is the better bibliographic program, plus is a sunk cost.[Helps that autocomplete-bibtex is up and at 'em now. See @baldwin2012, p. 42]
 
-So key apps: Atom (GitHub Desk), DT3, Zotero.
+Zotero gives a bigger bib file -- although it can be a json one and the zotero citation will enable more compact page, prefix and suffix in citations.
 
-(Interesting that GitHub Desktop works but Atom does not. Allows continued use, so there's that.)
+DT3 as library and storage.
 
-Key elements here:
-
-Can I create pandoc-ready citations from bookends without the @ sign for pages. No, but I can negotiate the citation in Atom with autocomplete-bibtex.
-
-Can I sync DT3 from laptop with iPad.
+So -- Scrivener notes, Bookends, and copy to DT3.[@drucker1961, p. 62]

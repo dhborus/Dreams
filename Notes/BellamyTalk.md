@@ -12,6 +12,6 @@ Want to mention capitalism, industry (use of machines to do work human body once
 
 Utopian -- combination of "no place" and 'good place'  [show Bellamy]
 
-Emphasize key features -- social provision, social obligation, end of corruption, end of social conflict.
+Emphasize key features -- social provision, social obligation, end of corruption, end of social conflict.[]
 
 What if you like walking in the rain?[@johnson2004 Doubtful much more will come from this]

@@ -8,4 +8,6 @@ Zotero gives a bigger bib file -- although it can be a json one and the zotero c
 
 DT3 as library and storage.
 
+<!-- Should I take notes in DT3? -->
+
 So -- Scrivener notes, Bookends, and copy to DT3.[@drucker1961, p. 62]

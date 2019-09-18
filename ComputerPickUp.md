@@ -1,4 +1,5 @@
-Five key programs -- Atom/Scrivener, DT3, Bookends/Zotero:
+
+## Five key programs -- Atom/Scrivener, DT3, Bookends/Zotero:
 
 For writing, Scrivener and Atom are more or less interchangeable -- Serve as backup for each other. Simply  copy day's writing to the other before shut down. Atom is really in anticipation of Linux shift -- which is about two years away. Scrivener has the advantage of iPad syncing and use.
 
@@ -11,3 +12,5 @@ DT3 as library.
 <!-- Should I take notes in DT3? -->
 
 So -- Scrivener notes, Bookends, and copy to DT3.[@fromm1962, p. 77]
+
+<!--#computer-->

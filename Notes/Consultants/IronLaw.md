@@ -1,6 +1,7 @@
 Iron Law of Oligarchy -- Michels from Wikipedia.
 
-The iron law of oligarchy is a political theory, first developed by the German sociologist Robert Michels in his 1911 book, Political Parties.[1] It asserts that rule by an elite, or oligarchy, is inevitable as an "iron law" within any democratic organization as part of the "tactical and technical necessities" of organization.[1]
+The iron law of oligarchy is a political theory, first developed by the 
+German sociologist Robert Michels in his 1911 book, Political Parties.[1] It asserts that rule by an elite, or oligarchy, is inevitable as an "iron law" within any democratic organization as part of the "tactical and technical necessities" of organization.[1]
 
 Michels's theory states that all complex organizations, regardless of how democratic they are when started, eventually develop into oligarchies. Michels observed that since no sufficiently large and complex organization can function purely as a direct democracy, power within an organization will always get delegated to individuals within that group, elected or otherwise.
 

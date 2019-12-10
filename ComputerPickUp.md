@@ -1,16 +1,16 @@
 
-## Five key programs -- Atom/Scrivener, DT3, Bookends/Zotero:
+Thoughts 08 September 2019
 
-For writing, Scrivener and Atom are more or less interchangeable -- Serve as backup for each other. Simply  copy day's writing to the other before shut down. Atom is really in anticipation of Linux shift -- which is about two years away. Scrivener has the advantage of iPad syncing and use.
+1. 11” iPad as basic work machine. MagicKeyboard for home; Brydge for mobile. Or Brydge throughout. Former makes the 11'' the prime, if not sole device. Latter makes the 11'' a laptop. Sunk costs suggest latter. Especially with fiction reading possible on the Kindle.
 
-Bookends is the better bibliographic program, plus is a sunk cost.[Helps that autocomplete-bibtex is up and at 'em now. See @talmon1952]
+2. notes in iA Writer/Zettlr or MMC on iMac. Indexed in DT3.
 
-Zotero gives a bigger bib file -- although it can be a json one and the zotero citation will enable more compact page, prefix and suffix in citations.
+3. Review and cull in DevonThink3
 
-DT3 as library.
+4. Move to writing app. Premature to worry about. Quick thoughts: Scrivener is a remarkable and full-featured app. Dropbox can be a pain to sync, but has the advantage of keeping work within the same environment. Wish I had iCloud instant synchronization but that seems unlikely to happen. iA Writer - A/Z combination can be a bit clunky on transfer -- writing is less fluid in iA Writer while Zettlr lacks a second editor and Atom is harder to sync with the iPad. Zettlr and Atom both have wonderful citation system and have little tricks such as [].
 
-<!-- Should I take notes in DT3? -->
+6. Bibliography - Bookends - iMac (might switch to Zotero if way to create items on iPad), but having trouble with Amazon
 
-So -- Scrivener notes, Bookends, and copy to DT3.[@fromm1962, p. 77]
+7. Notes -- Subject - body - pandoc citation add hashtags and contexts.
 
-<!--#computer-->
+8. old iPad in portrait for reading with Kindle for fiction; new for work in split screen with iA Writer.

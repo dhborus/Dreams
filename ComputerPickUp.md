@@ -34,15 +34,15 @@ Number 1 is probably easiest, actually. But less apealing. In part, the hipness 
 
 Number 2 makes sense, given the amount of commitment I have made to the iPad as a work machine. Really shouldn't treat them as sunk costs. Integration with Kindle is important here.
 
-Number 3 Atom is Scrivener-like but 1) clearly more adjustable and 2) does allow movement between the two OS families. Could imagine a workflow in which I keep files in GitHub and the iPad and transfer the ones I *change* through Dropbox. 
+Number 3 Atom is Scrivener-like but 1) clearly more adjustable and 2) does allow movement between the two OS families. Could imagine a workflow in which I keep files in GitHub and the iPad and transfer the ones I *change* through Dropbox.
 
-Manjaro has some better wonderful apps. But for all the talk of stability, I remember that it wasn't quite. Elementary looks the best but doesn't quite have the range of apps or the customization of Mint. Mint is probably the best choice but at the moment, I think it is dull. 
+Manjaro has some better wonderful apps. But for all the talk of stability, I remember that it wasn't quite. Elementary looks the best but doesn't quite have the range of apps or the customization of Mint. Mint is probably the best choice but at the moment, I think it is dull.
 
 * like Kate, Okular, and KDE apps, if not the customization.
 
 * Need to check Dropbox and if I can get into the server. If not, could convert it into a Linux box (of Manjaro). Otherwise serves an important role. Or at least could.
 
-* stick with Manjaro until it breaks. Need to copy Home directory. If it fails go to Elementary OS. Might if wireless continues to act up. Which it hasn't so far. Do worry about all the dependencies I have created here. But Elementary is the fallback.
+* stick with Manjaro until it breaks. Need to copy Home directory. If it fails go to Elementary OS. Might if wireless continues to act up. Which it hasn't so far. Do worry about all the dependencies I have created here. But Elementary is the fallback. (Turns out the mail program doesn't work. Am downloading Linux Mint, but will start out with Elementary)
 
 Thoughts 08 September 2019
 

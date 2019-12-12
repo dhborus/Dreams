@@ -5,6 +5,14 @@ Have decided that Linux the way to go, at least for the moment.
 
 ﻿# Thoughts on Computers and Workflow
 
+12 December 2019
+
+Have returned to Manjaro. There will, of course, be problems. But it is easier to get to menus, switch programs, and . . . . customize the program. A rolling distribution will complicate learning Linux, but there you go.
+
+Workflow -- Download notes from Kindle. Import notes from iA Writer. Virtue of concentrating on GitHub is that it will be the basis for synchronization and iPad -- which is not really a work machine, alas-- will be support.
+
+
+
 10 December 2019
 
 No more futzing around. Really tired of Apple retreat from user friendliness -- so DT3, extra hardware waste, money grubbing, politics, and cult.

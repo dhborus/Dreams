@@ -14,7 +14,7 @@ Have moved toward Linux future. Manjaro on MacBook, using Atom and GitHub. iPad
 Things to do
 * Make sure Git Hub works (It does)
 
-* SSH
+* SSH -- works. 
 
 8 December 2019:
 

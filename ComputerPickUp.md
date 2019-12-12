@@ -11,7 +11,7 @@ Have returned to Manjaro. There will, of course, be problems. But it is easier t
 
 Workflow -- Download notes from Kindle. Import notes from iA Writer. Virtue of concentrating on GitHub is that it will be the basis for synchronization and iPad -- which is not really a work machine, alas-- will be support.
 
-
+Install Linux on old iMac. Transfer movies to iMac. Place Manjaro on machine. Install apps. Do the do. 
 
 10 December 2019
 

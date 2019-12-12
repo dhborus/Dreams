@@ -14,7 +14,7 @@ Have moved toward Linux future. Manjaro on MacBook, using Atom and GitHub. iPad
 Things to do
 * Make sure Git Hub works (It does)
 
-* SSH -- works. 
+* SSH -- works.
 
 8 December 2019:
 
@@ -43,6 +43,8 @@ Manjaro has some better wonderful apps. But for all the talk of stability, I rem
 * Need to check Dropbox and if I can get into the server. If not, could convert it into a Linux box (of Manjaro). Otherwise serves an important role. Or at least could.
 
 * stick with Manjaro until it breaks. Need to copy Home directory. If it fails go to Elementary OS. Might if wireless continues to act up. Which it hasn't so far. Do worry about all the dependencies I have created here. But Elementary is the fallback. (Turns out the mail program doesn't work. Am downloading Linux Mint, but will start out with Elementary)
+
+* Manjaro sputtered as I expected, although my constant downloading of apps was the proximate problem. Not thrilled with the ways in which Elementary functions. The absence of menu bars and functions can be irksome, especially with Files. Might try to stick it out a couple of days and then shift back to Mint.
 
 Thoughts 08 September 2019
 

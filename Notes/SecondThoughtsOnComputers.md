@@ -8,3 +8,5 @@ Love the keyboard on the MacBook. Manjaro is working well at the moment, althoug
 Not crazy about Linux Mint bootup time.If I'm only using the desktop for Emby, may as well be Mac version of the machine.
 
 Could do home directory. operation. And see if it works. Let's try to speed up boot time first.
+
+Manjaro-MacBook and iPad as daily drivers. iMac when needed (Emby, saved documents and the like)

@@ -53,3 +53,7 @@ In the scientific investigation of the dream we start with the assumption that t
 ### Making Scientific sense of the dream
 
 That the mind withdraws from the outer world does not fully explain the strangeness of the dream. Should be able to change back "the hallucinations of the dream into presentations and the situations of the dram into thoughts, and thus to perform the task of dream interpretations." (43) We do this when awakening but "the dream still retains its mysteriousness." 
+
+### Freud's singularity
+
+Freud quotes a number of authorities to the effect that dreams are incoherent, illogical, and confusing. Wrote one, "It is as if the psychological activity were transferred from the brain of a reasonable being into the brain of a fool." absurd actions have no firm law.

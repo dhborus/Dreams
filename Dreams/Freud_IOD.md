@@ -57,3 +57,8 @@ That the mind withdraws from the outer world does not fully explain the strangen
 ### Freud's singularity
 
 Freud quotes a number of authorities to the effect that dreams are incoherent, illogical, and confusing. Wrote one, "It is as if the psychological activity were transferred from the brain of a reasonable being into the brain of a fool." absurd actions have no firm law.
+
+### Freud on previous authors' views of the formation of the dream
+
+The sum of sensation stimuli affecting sleep from the various sources . . . at first awaken in the mind a sum of presentations which represent themselves as hallucinations. . . These unite with one another according to the known laws of association, and, following the same rules, in turn evoke a new series of presentations (pictures). This entire material is then elaborated as well as possible by the still active remnant of the organizing and thinking mental faculties. But thus farno one has been successful in finding the motive which would decide that the awakening of pictures which do not originate objectively follow this or that law of association."[@freud1917, p. 48]
+

@@ -10,3 +10,5 @@ Not crazy about Linux Mint bootup time.If I'm only using the desktop for Emby, m
 Could do home directory. operation. And see if it works. Let's try to speed up boot time first.
 
 Manjaro-MacBook and iPad as daily drivers. iMac when needed (Emby, saved documents and the like)
+
+iMac is pretty damn slow. MacBook is faster. Could try Manjaro one more time. Or slip into MX. But I'm not sure it will make much difference. Perhaps I can move one iMac to the basement, the garage, or something else. 

@@ -5,6 +5,13 @@ Have decided that Linux the way to go, at least for the moment.
 
 ﻿# Thoughts on Computers and Workflow
 
+
+23 December 2019
+
+Manjaro stalls on the iMac -- didn't find proper Broadcom driver. Stuck Elementary on it. Fairly slow (as was Mint). Picking up. Probably makes sense to return it to IT for disposal. Or, if as I suspect, they don't want to it -- give it to worthy place.
+
+In the meantime, best to use it as the base. When ready to send it on, can wipe it. 
+
 12 December 2019
 
 Have returned to Manjaro. There will, of course, be problems. But it is easier to get to menus, switch programs, and . . . . customize the program. A rolling distribution will complicate learning Linux, but there you go.
@@ -38,7 +45,7 @@ Manjaro and Linux writ large has proven to be more attractive and workable than 
 
 4. Investigate a Linux only regime. Desktop and Laptop and investigation of tablets. Can sync between android tablet and computer. Can also do it with iPad, at least in Mint.
 
-Number 1 is probably easiest, actually. But less apealing. In part, the hipness factor; in part the "heaviness" of Scrivener and the really complicated synchronization involved in Dropbox. Features might be useful, but I have become accustomed to plain text and workarounds. To be fair, Dropbox comes into play in options three and four, but 1) these will be text files and not Scrivener's projects and 2) there are other cloud services -- NextCloud, for instance -- that may work as well.
+Number 1 is probably easiest, actually. But less appealing. In part, the hipness factor; in part the "heaviness" of Scrivener and the really complicated synchronization involved in Dropbox. Features might be useful, but I have become accustomed to plain text and workarounds. To be fair, Dropbox comes into play in options three and four, but 1) these will be text files and not Scrivener's projects and 2) there are other cloud services -- NextCloud, for instance -- that may work as well.
 
 Number 2 makes sense, given the amount of commitment I have made to the iPad as a work machine. Really shouldn't treat them as sunk costs. Integration with Kindle is important here.
 

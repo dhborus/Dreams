@@ -1,4 +1,6 @@
-﻿# Thoughts on Computers and Workflow
+# Thoughts on Computers and Workflow
+
+
 
 
 26 December 2019
@@ -15,7 +17,7 @@ Question comes down to sunk costs and time. Do I want to regard the money spent 
 
 Whichever, clearly moved to plain text. So, no Scrivener (Ulysses) or much else. Zotero rather than Bookends. Also using iA Writer or GitHub for notes. Switch to Firefox, copy article, past next file.
 
-Lot of this doesn't matter. Won't abandon iPad for movies, reading, or notes and shopping list. Might as well keep it. Could use laptop for some mobility, but not really necessary to do so. Seems as if the appeal of Linux at this point is at most artisanal and ideological as necessary. Chances are pretty good, the thing won't be finished anyway.
+Lot of this doesn't matter. Won't abandon iPad for movies, reading, or notes and shopping list. Might as well keep it. Could use laptop for some mobility, but not really necessary to do so. Seems as if the appeal of Linux at this point is at most artisanal and ideological as necessary, at least in terms of current costs. In terms of use, laptop has advantage of flexibility of use home and away. So it could be one stop. Chances are pretty good, the thing won't be finished anyway.
 
 Thoughts 08 September 2019
 

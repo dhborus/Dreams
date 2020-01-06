@@ -2,7 +2,7 @@
 
 ## 06 January 2020
 
-Have returned to iMac-iPad combination. Still very wary of Apple, but think future is not yet now.
+Have returned to iMac-iPad combination. Still very wary of Apple, but think future is not yet now. Most work will be done on iPad; storage -- particularly pdfs and scans of financial records on iMac.
 
 A. muscle memory and still not fully comfortable with Linux. Although very much suspicious of Apple (and Microsoft, for that matter), the future is not yet now.
 
@@ -19,6 +19,9 @@ C. Tasks
 1. Learn Working Copy
 2. Learn Shortcuts
 3. Learn Linux. (Tuesdays)
+
+~Joplin install~
+ 
 
 
 

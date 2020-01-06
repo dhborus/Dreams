@@ -1,6 +1,25 @@
 # Thoughts on Computers and Workflow
 
+## 06 January 2020
 
+Have returned to iMac-iPad combination. Still very wary of Apple, but think future is not yet now.
+
+A. muscle memory and still not fully comfortable with Linux. Although very much suspicious of Apple (and Microsoft, for that matter), the future is not yet now.
+
+B. Workflow:
+
+1. Notes for hard-copy books taken in Atom on iMac (or Macbook). Reference in Zotero.
+2. Notes for e-books in iA Writer and transferred to Working Copy. Reference in Zotero.
+3. Write ups in GitHub (either Working Copy/iA Writer or Atom)
+4. PDFs marked up on iPad. Can incorporate in DT3 or Joplin
+5. General clipping to GenHis.
+
+C. Tasks
+
+1. Learn Working Copy
+2. Learn Shortcuts
+3. Learn Linux. (note: If Joplin replaces DT3, might be able to undertake above workflow in Linux)
+4. Finances
 
 
 26 December 2019

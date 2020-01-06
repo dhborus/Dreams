@@ -18,8 +18,9 @@ C. Tasks
 
 1. Learn Working Copy
 2. Learn Shortcuts
-3. Learn Linux. (note: If Joplin replaces DT3, might be able to undertake above workflow in Linux)
-4. Finances
+3. Learn Linux. (Tuesdays)
+
+
 
 
 26 December 2019

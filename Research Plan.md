@@ -18,7 +18,7 @@ So
 
 *Player Piano*
 *Bleeding Edge*
-*Herman*
+*Herman* (that's psychology)
 		Trouble in mind
 		
 		

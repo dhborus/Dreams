@@ -1,5 +1,13 @@
 # Thoughts on Computers and Workflow
 
+## 07 February 2020
+
+laptop is running Ubuntu, but probably won't use it much since it is difficult to read on the computer desk. Could try a second lamp. Still best to use GitHub for transfer just in case, but iCloud is a nice backup.
+
+Ubuntu chosen for number of users, foundation for Mint, Elementary, and . . . the Gnome desktop. Will wait for LTS.
+
+might consider Joplin.
+
 ## 06 January 2020
 
 Have returned to iMac-iPad combination. Still very wary of Apple, but think future is not yet now. Most work will be done on iPad; storage -- particularly pdfs and scans of financial records on iMac.
@@ -8,11 +16,10 @@ A. muscle memory and still not fully comfortable with Linux. Although very much 
 
 B. Workflow:
 
-1. Notes for hard-copy books taken in Atom on iMac (or Macbook). Reference in Zotero.
+1. Notes for hard-copy books taken in Atom on iMac or iA Writer on iPad. Reference in Zotero. key is using keyboard shortcut.
 2. Notes for e-books in iA Writer and transferred to Working Copy. Reference in Zotero.
-3. Write ups in GitHub (either Working Copy/iA Writer or Atom)
-4. PDFs marked up on iPad. Can incorporate in DT3 or Joplin
-5. General clipping to GenHis.
+3. PDFs marked up on iPad. Can incorporate in DT3 or Joplin
+4. General clipping to GenHis.
 
 C. Tasks
 
@@ -20,8 +27,8 @@ C. Tasks
 2. Learn Shortcuts
 3. Learn Linux. (Tuesdays)
 
-~Joplin install~
- 
+
+
 
 
 

@@ -21,4 +21,8 @@ So
 *Herman* (that's psychology)
 		Trouble in mind
 		
+		Business as usual only more so reason for Marxist disillusion [eagleton2018, p. 7] There are detectives because there are criminals. (poor because there are rich)[@eagleton2018, p. 11]
+		
+		
+		
 		

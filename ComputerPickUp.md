@@ -6,7 +6,8 @@ laptop is running Ubuntu, but probably won't use it much since it is difficult t
 
 Ubuntu chosen for number of users, foundation for Mint, Elementary, and . . . the Gnome desktop. Will wait for LTS.
 
-might consider Joplin.
+might consider Joplin. Eh . . 
+
 
 ## 06 January 2020
 

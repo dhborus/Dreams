@@ -4,7 +4,7 @@ Pynchon as historical novelist
 
 Psychosocial as particularly suited to mid-twentieth century
 
-Dream interpretation 
+Dream interpretation
 
 Dreams seem long-term; consultants seem something of a quickie project. Want to avoid journalism, particularly interviews. Can do October reading to get some sense of the lay of the land. Could write -- a short history of consulting.
 
@@ -20,9 +20,3 @@ So
 *Bleeding Edge*
 *Herman* (that's psychology)
 		Trouble in mind
-		
-		Business as usual only more so reason for Marxist disillusion [eagleton2018, p. 7] There are detectives because there are criminals. (poor because there are rich)[@eagleton2018, p. 11]
-		
-		
-		
-		

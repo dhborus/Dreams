@@ -2,11 +2,11 @@
 
 ## 07 February 2020
 
-laptop is running Ubuntu, but probably won't use it much since it is difficult to read on the computer desk. Could try a second lamp. Still best to use GitHub for transfer just in case, but iCloud is a nice backup.
+laptop is running Ubuntu, but probably won't use it much since it is difficult to read on the computer desk. Could try a second lamp. Does offer best keyboard and nice note-taking ability. At the very least I am going to use GitHub for transfer.
 
 Ubuntu chosen for number of users, foundation for Mint, Elementary, and . . . the Gnome desktop. Will wait for LTS.
 
-might consider Joplin. Eh . . 
+might consider Joplin. Eh . .
 
 
 ## 06 January 2020

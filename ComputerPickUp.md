@@ -1,10 +1,12 @@
 # Thoughts on Computers and Workflow
 
-## 07 February 2020
+## 09 February 2020
 
 laptop is running Ubuntu, but probably won't use it much since it is difficult to read on the computer desk. Could try a second lamp. Does offer best keyboard and nice note-taking ability. At the very least I am going to use GitHub for transfer.
 
-Ubuntu chosen for number of users, foundation for Mint, Elementary, and . . . the Gnome desktop. Will wait for LTS.
+Trying to avoid distro-hopping. At the moment, Ubuntu because of its number of users, forums, its service as the foundation for for Mint, Elementary, and . . . the Gnome desktop. Will wait for LTS before final choice. Will be using it for a bit, with iMac as auxiliary. 
+
+Possible Thinkpad for linux -- The x220 and t420 are the last thinkpads to come with the classic keyboard, but the x230 and t430 can be modded to use the classic keyboard too.
 
 might consider Joplin. Eh . .
 

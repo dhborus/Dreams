@@ -24,3 +24,5 @@ Problem with Marxist history -- why does KM assume that the productive forces ke
 56: Enlightenment vs Marxist view of historical change as disruptive and discontinuous.
 
 60: No inexorability in which each stage is necessary for certain goal. Capitalism can be drawn on for socialism, but does not exist for that reason.
+
+Everyone agrees that that some historical factors are more weighty than others. This does not prevent them from being pluralists, in one sense of the world. [@eagleton2018, 109]

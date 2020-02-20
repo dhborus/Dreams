@@ -17,10 +17,10 @@ Problem with Marxist history -- why does KM assume that the productive forces ke
 **Determinism and Free Will** Similar to Christianity. future kingdom of God is not preordained; it will arrive only if men and women work for it in the present. But the fact that they will work for it of their own free will is itself an inevitable result of God's grace. . . Just as for the Christian human action is free yet part of a preordained plan, so for Marx the disintegration of capitalism will unavoidably lead men and women to sweep it away of their own free will.[@eaglton2018, p. 45-7]
 (But this is all predicated on what they would do as rational actors. hs little to say about whether the working class is enfeebled or demoralized. p. 48)
 
-49, 51 km as anti determinist and social relations cause rather than effect, other does appear at great length. 
+49, 51 km as anti determinist and social relations cause rather than effect, other does appear at great length.
 
 55: every society opens up some possibiliTies and closes down others. not iron clad laws or chaos.
 
-56: Enlightenment vs Marxist view of historical change as disruptive and discontinuous. 
+56: Enlightenment vs Marxist view of historical change as disruptive and discontinuous.
 
-60: No inexorability in which each stage is necessary for certain goal. Capitalism can be drawn on for socialism, but does not exist for that reason. 
+60: No inexorability in which each stage is necessary for certain goal. Capitalism can be drawn on for socialism, but does not exist for that reason.

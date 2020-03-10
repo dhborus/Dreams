@@ -1,5 +1,11 @@
 # Thoughts on Computers and Workflow
 
+## 09 March 2020
+
+Makes sense to return to MacOs. At the moment, it is seamless, enables the use of the iMac for pandoc and allows sunk costs to play out. I will do most general note taking in Simplenote and transfer research material through GitHub. That will allow Linux work.
+
+The Linux distro at the moment is Elementary. Really prefer Manjaro but had some difficulty with Atom extensions and plugins. Might try again. Or Deepin
+
 ## 09 February 2020
 
 laptop is running Ubuntu, but probably won't use it much since it is difficult to read on the computer desk. Could try a second lamp. Does offer best keyboard and nice note-taking ability. At the very least I am going to use GitHub for transfer.

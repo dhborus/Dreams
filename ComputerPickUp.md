@@ -1,75 +1,21 @@
 # Thoughts on Computers and Workflow
 
-## 09 March 2020
+## 18 March 2020
 
-Makes sense to return to MacOs. At the moment, it is seamless, enables the use of the iMac for pandoc and allows sunk costs to play out. I will do most general note taking in Simplenote and transfer research material through GitHub. That will allow Linux work.
+All Mac -- although there is much to dislike about Apple as a company and a technology, I have the equipment and may as well stick with what I have. MacBook is set up -- can use it as desktop and mobile device. With iPad as alternative.
 
-The Linux distro at the moment is Elementary. Really prefer Manjaro but had some difficulty with Atom extensions and plugins. Might try again. Or Deepin
+Could transfer with GitHub, of course. Will preserve for Linux, when I make the move. (Which I will). Write with Atom and IA Writer. Zettler for notes. Not sure I will use MMC.
 
-## 09 February 2020
+DT3 as storage and clip service. Scapple for jottings, preliminary outlines, and idea connection.
 
-laptop is running Ubuntu, but probably won't use it much since it is difficult to read on the computer desk. Could try a second lamp. Does offer best keyboard and nice note-taking ability. At the very least I am going to use GitHub for transfer.
+Zotero as bibliography program. Firefox for clipping. Safari for general surfing and note-taking (only because I can do stuff automatically with it).
 
-Trying to avoid distro-hopping. At the moment, Ubuntu because of its number of users, forums, its service as the foundation for for Mint, Elementary, and . . . the Gnome desktop. Will wait for LTS before final choice. Will be using iMac until April for Taxes and student recommendations.  
+Will use LaunchBar for awhile, Alfred as second choice. Quicksilver a bit iffy and has a learning curve at this time.
+
+Devote learning to DevonThink3.
+
+Use Default focus, much less squinting.
 
 Possible Thinkpad for linux -- The x220 and t420 are the last thinkpads to come with the classic keyboard, but the x230 and t430 can be modded to use the classic keyboard too.
 
-might consider Joplin.
-
-
-## 06 January 2020
-
-Have returned to iMac-iPad combination. Still very wary of Apple, but think future is not yet now. Most work will be done on iPad; storage -- particularly pdfs and scans of financial records on iMac.
-
-A. muscle memory and still not fully comfortable with Linux. Although very much suspicious of Apple (and Microsoft, for that matter), the future is not yet now.
-
-B. Workflow:
-
-1. Notes for hard-copy books taken in Atom on iMac or iA Writer on iPad. Reference in Zotero. key is using keyboard shortcut.
-2. Notes for e-books in iA Writer and transferred to Working Copy. Reference in Zotero.
-3. PDFs marked up on iPad. Can incorporate in DT3 or Joplin
-4. General clipping to GenHis.
-
-C. Tasks
-
-1. Learn Working Copy
-2. Learn Shortcuts
-3. Learn Linux. (Tuesdays)
-
-
-
-
-
-
-
-26 December 2019
-
-Three choices:
-
-A. iMac - iPad thru iCloud, (or Working Copy)
-
-B. iMac - MacBook -- through Github
-
-C. MacBook -- iPad -- through Working Copy.
-
-Question comes down to sunk costs and time. Do I want to regard the money spent on Mac gear and apps something I need to use . . . Or anticipate greater costs down the road and begin the transition to Linux.
-
-Whichever, clearly moved to plain text. So, no Scrivener (Ulysses) or much else. Zotero rather than Bookends. Also using iA Writer or GitHub for notes. Switch to Firefox, copy article, past next file.
-
-Lot of this doesn't matter. Won't abandon iPad for movies, reading, or notes and shopping list. Might as well keep it. Could use laptop for some mobility, but not really necessary to do so. Seems as if the appeal of Linux at this point is at most artisanal and ideological as necessary, at least in terms of current costs. In terms of use, however, the Linux laptop has advantage of flexibility of use home and away and a generally more usable keyboard. So it could be one stop. Chances are pretty good, the thing won't be finished anyway.
-
-Thoughts 08 September 2019
-
-1. 11” iPad as basic work machine. MagicKeyboard for home; Brydge for mobile. Or Brydge throughout. Former makes the 11'' the prime, if not sole device. Latter makes the 11'' a laptop. Sunk costs suggest latter. Especially with fiction reading possible on the Kindle.
-
-2. notes in iA Writer/Zettlr or MMC on iMac. Indexed in DT3.
-
-3. Review and cull in DevonThink3
-
-4. Move to writing app. Premature to worry about. Quick thoughts: Scrivener is a remarkable and full-featured app. Dropbox can be a pain to sync, but has the advantage of keeping work within the same environment. Wish I had iCloud instant synchronization but that seems unlikely to happen. iA Writer - A/Z combination can be a bit clunky on transfer -- writing is less fluid in iA Writer while Zettlr lacks a second editor and Atom is harder to sync with the iPad. Zettlr and Atom both have wonderful citation system and have little tricks such as [].
-
-6. Bibliography - Bookends - iMac (might switch to Zotero if way to create items on iPad), but having trouble with Amazon
-
-7. Notes -- Subject - body - pandoc citation add hashtags and contexts.
-
-8. old iPad in portrait for reading with Kindle for fiction; new for work in split screen with iA Writer.
+Notes -- Subject - body - pandoc citation add hashtags and contexts.

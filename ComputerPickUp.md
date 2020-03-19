@@ -10,9 +10,9 @@ DT3 as storage and clip service. Scapple for jottings, preliminary outlines, and
 
 Zotero as bibliography program. Firefox for clipping. Safari for general surfing and note-taking (only because I can do stuff automatically with it).
 
-Will use LaunchBar for awhile, Alfred as second choice. Quicksilver a bit iffy and has a learning curve at this time.
+Will use Quicksilver for awhile, followed by Alfred. There is a learning curve, of course, but in this case a relearning curve.
 
-Devote learning to DevonThink3.
+Devote learning to DevonThink3 and Keyboard Maestro. 
 
 Use Default focus, much less squinting.
 

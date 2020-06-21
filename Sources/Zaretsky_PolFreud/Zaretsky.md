@@ -1,7 +1,35 @@
-## CH2
+Title: Political Freud: A History
 
-### African American interest in Freudianism
-related to family separation. Coming to grips with history through mourning. Working through collective memory. (lived, for most part, in ultimate patriarchal society -- master's house) [@zaretsky2017, p. 39]
+Author: Eli Zaretsky
+
+City: New York
+
+Publisher: Columbia University process
+
+Year: 2017
+
+Summary:
+
+[[MeaningPolFreud_PolFreud]]
+[[RegressionInterpretationDreams_PolFreud]]
+[[Conflicting_Legacies_PolFreud]]
+[[FreudOnAggression_PolFreud]]
+[[Psychoanalysis_Spirit_Capitalism_PolFreud]]
+[[Personal_Life&Capitalism_PolFreud]]
+[[Analysis_Culture_PolFreud]]
+[[Importance of Sexuality_PolFreud]]
+[[Calvinism&PA_PolFreud]]
+[[AutonomyPA_PolFreud]]
+[[PostwarAnalysis_PolFreud]]
+[[NuclearFarmilyPostwar_PolFreud]]
+[[NewLeft_PolFreud]]
+[[Legacy_PolFreud]]
+[[AfrAm_PolFreud]]
+
+
+
+
+
 
 ### Parallel between Hegelian master-slave stages and Black intellectual developments
 key to argument that double conscious, identity as free person, master dependent and slave's consciousness exists for itself -- Harlem R, Pop Front, postcolonialism. tends to be more political and collective than with white as private. [@zaretsky2017, p. 39-40]
@@ -14,3 +42,4 @@ when Zaretsky writes, p. 40 that the blues are closely linked to psychoanalysis 
 
 ### Follow up on Comment
 blues were the construction of black memory. Psychoanalysis put memory at the center of all human strivings toward freedom. Less recall of objective knowledge of the past than the subjective process of mastering the past so that it becomes part of one's identity. [@zaretsky2017, p. 41]
+#DevonThink

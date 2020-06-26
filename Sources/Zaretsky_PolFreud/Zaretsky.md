@@ -8,23 +8,23 @@ Publisher: Columbia University process
 
 Year: 2017
 
-Summary:
+Summary: 
 
-[[ResearchNotes/Sources/Zaretsky_PolFreud/MeaningPolFreud_PolFreud]]
-[[RegressionInterpretationDreams_PolFreud]]
-[[Conflicting_Legacies_PolFreud]]
-[[FreudOnAggression_PolFreud]]
-[[Psychoanalysis_Spirit_Capitalism_PolFreud]]
-[[Personal_Life&Capitalism_PolFreud]]
-[[Analysis_Culture_PolFreud]]
-[[Importance of Sexuality_PolFreud]]
-[[Calvinism&PA_PolFreud]]
-[[AutonomyPA_PolFreud]]
-[[PostwarAnalysis_PolFreud]]
-[[NuclearFarmilyPostwar_PolFreud]]
-[[NewLeft_PolFreud]]
-[[Legacy_PolFreud]]
-[[AfrAm_PolFreud]]
+[[Sources/Zaretsky_PolFreud/MeaningPolFreud_PolFreud]]
+[[Sources/Zaretsky_PolFreud/RegressionInterpretationDreams_PolFreud]]
+[[Sources/Zaretsky_PolFreud/Conflicting_Legacies_PolFreud]]
+[[Sources/Zaretsky_PolFreud/FreudOnAggression_PolFreud]]
+[[Sources/Zaretsky_PolFreud/Psychoanalysis_Spirit_Capitalism_PolFreud]]
+[[Sources/Zaretsky_PolFreud/Personal_Life&Capitalism_PolFreud]]
+[[Sources/Zaretsky_PolFreud/Analysis_Culture_PolFreud]]
+[[Sources/Zaretsky_PolFreud/Importance of Sexuality_PolFreud]]
+[[Sources/Zaretsky_PolFreud/Calvinism&PA_PolFreud]]
+[[Sources/Zaretsky_PolFreud/AutonomyPA_PolFreud]]
+[[Sources/Zaretsky_PolFreud/PostwarAnalysis_PolFreud]]
+[[Sources/Zaretsky_PolFreud/NuclearFarmilyPostwar_PolFreud]]
+[[Sources/Zaretsky_PolFreud/NewLeft_PolFreud]]
+[[Sources/Zaretsky_PolFreud/Legacy_PolFreud]]
+[[Sources/Zaretsky_PolFreud/AfrAm_PolFreud]]
 
 
 
